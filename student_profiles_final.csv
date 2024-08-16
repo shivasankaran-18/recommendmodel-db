@@ -1,0 +1,101 @@
+profile_id,name,sector,skills,interests,current_industry
+1,Person 1,Government & Non-Profit,"Grant Writing, Humanitarian Aid, Public Policy Analysis, Social Work","Public Policy, Environmental Conservation",Non-Profit
+2,Person 2,Hospitality & Travel,"Reservation Management, Hotel Operations, Hospitality Management, Catering, Hospitality Marketing","Luxury Travel, Cruise Tourism, Cultural Tourism",Event Management
+3,Person 3,Finance & Banking,"Equity Research, Financial Modeling, Quantitative Analysis, Asset Management","Portfolio Management, Stock Market, Cryptocurrency",Wealth Management
+4,Person 4,Agriculture & Food Production,"Rural Development, Livestock Management","Agribusiness, Food Technology, Agroforestry, Urban Farming",Dairy Farming
+5,Person 5,Engineering & Manufacturing,"Product Design, Thermodynamics, Project Scheduling, Six Sigma","Industrial Automation, Renewable Energy, Manufacturing Processes",Electrical Engineering
+6,Person 6,Real Estate & Construction,"Construction Safety, Property Management, Site Management, Facility Management, Building Information Modeling (BIM)","Property Management, Interior Design, Sustainable Architecture, Property Investment",Architecture
+7,Person 7,Media & Entertainment,"Advertising, Videography, Graphic Design, Video Editing, Broadcasting","Journalism, Photography, Creative Writing",Social Media Management
+8,Person 8,Energy & Utilities,"Nuclear Engineering, Wind Energy, Sustainability, Water Resource Management","Green Technologies, Water Resource Management, Climate Change Mitigation, Environmental Sustainability",Waste Management
+9,Person 9,Consumer Goods & Retail,"Demand Planning, Consumer Behavior Analysis, Procurement","Consumer Behavior, Digital Marketing",Retail
+10,Person 10,Agriculture & Food Production,"Horticulture, Irrigation Systems","Food Technology, Food Safety, Agroforestry",Dairy Farming
+11,Person 11,Finance & Banking,"Underwriting, Wealth Management, Treasury Management, Financial Planning, Financial Analysis","Tax Planning, Cryptocurrency, Venture Capital, Corporate Finance",FinTech
+12,Person 12,Energy & Utilities,"Well Logging, Wind Energy, Smart Grid Technology, Oil & Gas Exploration","Energy Auditing, Oil & Gas Exploration, Nuclear Energy, Renewable Energy",Water Management
+13,Person 13,Government & Non-Profit,"Research & Development, Grant Writing, Social Work","Public Policy, NGO Work, Government Affairs",Advocacy
+14,Person 14,Engineering & Manufacturing,"Piping Design, Electrical Engineering, Six Sigma, 3D Printing, Maintenance Engineering","Aerospace Technology, 3D CAD Modeling, Renewable Energy, Manufacturing Processes",Chemical Engineering
+15,Person 15,Transportation & Logistics,"Cold Chain Logistics, Transportation Management Systems (TMS), Logistics Analysis, Route Planning, Supply Chain Optimization","Smart Cities, Freight Management, Urban Transit",Shipping
+16,Person 16,Consumer Goods & Retail,"Consumer Behavior Analysis, Procurement, Customer Relationship Management","Brand Management, E-commerce, Digital Marketing",Home Goods
+17,Person 17,Finance & Banking,"Treasury Management, Wealth Management, Financial Analysis","Stock Market, Economic Trends, Tax Planning",FinTech
+18,Person 18,Engineering & Manufacturing,"Lean Manufacturing, Manufacturing Engineering, CAD Design, Supply Chain Management","Nanotechnology, Material Science, Automotive Design, Renewable Energy",Manufacturing
+19,Person 19,Hospitality & Travel,"Travel Coordination, Destination Management, Catering","Culinary Arts, Adventure Travel",Recreation & Leisure
+20,Person 20,Transportation & Logistics,"Cross-Docking, Import/Export Management, Logistics Engineering, Rail Transport","Aviation Industry, Route Optimization, Supply Chain Management",Supply Chain Management
+21,Person 21,Finance & Banking,"Financial Regulations, Credit Analysis, Compliance","Investment Strategies, Cryptocurrency, Banking Technology, Risk Management",Wealth Management
+22,Person 22,Legal & Compliance,"Corporate Governance, Employment Law, Litigation, Environmental Law, Fraud Prevention","Mediation, Criminal Justice, Environmental Law",Tax Law
+23,Person 23,Engineering & Manufacturing,"Maintenance Engineering, Electrical Engineering","Sustainable Engineering, Nanotechnology",Product Design
+24,Person 24,Engineering & Manufacturing,"Six Sigma, Lean Manufacturing, Project Scheduling, Piping Design, Material Science","3D CAD Modeling, Quality Control",Electrical Engineering
+25,Person 25,Government & Non-Profit,"Humanitarian Aid, Legislative Affairs, Research & Development, Urban Planning","Environmental Conservation, Non-Profit Management",Urban Planning
+26,Person 26,Engineering & Manufacturing,"Lean Manufacturing, Production Planning","Industrial Automation, Nanotechnology, Renewable Energy, 3D CAD Modeling",Product Design
+27,Person 27,Healthcare & Life Sciences,"Pharmaceutical Development, Medical Device Design, Patient Care, Nutritional Counseling","Clinical Trials, Patient Advocacy",Nursing
+28,Person 28,Technology & IT,"SQL, Java","Robotics, Game Development",Robotics
+29,Person 29,Transportation & Logistics,"Route Planning, Customs Brokerage, Third-Party Logistics (3PL), Freight Forwarding, Logistics Coordination","Smart Cities, Supply Chain Management, Cold Chain Logistics, Transport Policy",Urban Transit
+30,Person 30,Legal & Compliance,"Intellectual Property Law, Contract Law, Mediation, Corporate Law, Labor Law","Mediation, Employment Law, Ethics, Arbitration",Compliance & Risk Management
+31,Person 31,Consumer Goods & Retail,"Product Management, Merchandising, Supply Chain Optimization","Customer Experience Design, Brand Management, Retail Innovation, Sustainable Consumer Goods",Apparel & Footwear
+32,Person 32,Education & Training,"Educational Consulting, Corporate Training, Vocational Training, Teacher Training","Curriculum Development, Vocational Training, Educational Technology, Inclusive Education",Educational Technology
+33,Person 33,Media & Entertainment,"Event Planning, Videography","Broadcasting, Music Production, Digital Media, Film & Cinema",Film & Television
+34,Person 34,Healthcare & Life Sciences,"Healthcare IT, Clinical Research","Medical Devices, Public Health, Epidemiology, Pharmaceuticals",Clinical Research
+35,Person 35,Legal & Compliance,"Environmental Law, Regulatory Compliance, Fraud Prevention, Ethics & Compliance","Corporate Law, Legal Research, Consumer Protection, Ethics",Corporate Law
+36,Person 36,Media & Entertainment,"Sound Engineering, Post-Production, Event Planning","Broadcasting, Digital Media, Public Relations",Advertising
+37,Person 37,Technology & IT,"API Development, Automation, Big Data","Hackathons, Tech Blogging",DevOps
+38,Person 38,Energy & Utilities,"Drilling Engineering, Nuclear Engineering","Waste Management, Water Resource Management, Oil & Gas Exploration",Renewable Energy
+39,Person 39,Media & Entertainment,"Sound Engineering, Graphic Design","Public Relations, Digital Media, Performing Arts, Animation",Music Industry
+40,Person 40,Real Estate & Construction,"Real Estate Development, Commercial Real Estate, Surveying, Construction Safety, Structural Engineering","Property Investment, Interior Design, Construction Technology",Landscaping
+41,Person 41,Finance & Banking,"Asset Management, Wealth Management, Accounting, Tax Planning","Personal Finance, Portfolio Management",Venture Capital
+42,Person 42,Engineering & Manufacturing,"Thermodynamics, Automation Engineering","Robotics Engineering, Civil Infrastructure, Renewable Energy, Manufacturing Processes",Mechanical Engineering
+43,Person 43,Legal & Compliance,"Mediation, Legal Research, Contract Law, Environmental Law, Anti-Money Laundering","Ethics, Environmental Law",Intellectual Property Law
+44,Person 44,Government & Non-Profit,"Grant Writing, Disaster Management, Public Relations, Program Management, Legislative Affairs","NGO Work, Community Development",Government
+45,Person 45,Finance & Banking,"Risk Management, FinTech","Venture Capital, Wealth Management, Stock Market",Insurance
+46,Person 46,Real Estate & Construction,"Sustainable Design, Cost Estimation, Project Planning","Property Management, Construction Technology, Real Estate Development",Residential Real Estate
+47,Person 47,Agriculture & Food Production,"Sustainable Agriculture, Dairy Farming, Irrigation Systems","Food Technology, Urban Farming",Dairy Farming
+48,Person 48,Education & Training,"Learning Management Systems (LMS), Academic Research","Educational Policy, Curriculum Development, Educational Technology, Inclusive Education",E-learning
+49,Person 49,Technology & IT,"Python, Blockchain, CSS, Incident Response","3D Printing, Data Science, Virtual Reality, Robotics",Web Development
+50,Person 50,Legal & Compliance,"International Law, Legal Writing","Intellectual Property, Regulatory Compliance, Human Rights Law",Compliance & Risk Management
+51,Person 51,Agriculture & Food Production,"Sustainable Agriculture, Post-Harvest Management","AgriTech Innovation, Permaculture",Dairy Farming
+52,Person 52,Finance & Banking,"Wealth Management, Risk Management, Corporate Finance, Financial Modeling","Economic Trends, Personal Finance",Financial Services
+53,Person 53,Engineering & Manufacturing,"Industrial Design, Product Design","3D CAD Modeling, Material Science, Manufacturing Processes, Automotive Design",Automotive
+54,Person 54,Energy & Utilities,"Energy Auditing, Environmental Compliance, Grid Management","Energy Policy, Climate Change Mitigation, Energy Conservation",Nuclear Energy
+55,Person 55,Education & Training,"Learning Management Systems (LMS), Training Needs Analysis, Teacher Training, Assessment Design, Instructional Design","Educational Policy, STEM Education",Language Learning
+56,Person 56,Transportation & Logistics,"Urban Transit Planning, Aviation Operations","Logistics Optimization, Railway Systems, Urban Transit",Aviation
+57,Person 57,Hospitality & Travel,"Tourism Management, Culinary Arts","Travel Writing, Adventure Travel, Recreation & Leisure, Cruise Tourism",Recreation & Leisure
+58,Person 58,Legal & Compliance,"Compliance Auditing, Fraud Prevention, Corporate Governance, Legal Consulting","Human Rights Law, Mediation, Criminal Justice",Corporate Law
+59,Person 59,Hospitality & Travel,"Destination Management, Travel Planning, Travel Coordination, Airline Management","Culinary Arts, Event Management",Food & Beverage Services
+60,Person 60,Legal & Compliance,"Environmental Law, Risk Management, Legal Writing, Compliance Auditing, Legal Research","Intellectual Property, Environmental Law",Contract Management
+61,Person 61,Finance & Banking,"Fraud Detection, Auditing, Forecasting, Valuation","Corporate Finance, Venture Capital, Financial Literacy",Private Equity
+62,Person 62,Transportation & Logistics,"Import/Export Management, Transportation Planning, Supply Chain Optimization, Demand Planning, Inventory Control","Smart Cities, Supply Chain Management, Transport Policy, Maritime Logistics",Transportation Planning
+63,Person 63,Hospitality & Travel,"Destination Management, Tour Operations, Travel Coordination","Luxury Travel, Cultural Tourism, Hotel Management",Event Management
+64,Person 64,Education & Training,"Special Education, Language Teaching, Teacher Training, Online Course Development, Tutoring","Student Mentorship, Educational Technology",EdTech
+65,Person 65,Consumer Goods & Retail,"Visual Merchandising, Inventory Management, Customer Service, Customer Relationship Management","Luxury Goods, Fashion Trends, Packaging Design",Consumer Electronics
+66,Person 66,Consumer Goods & Retail,"Inventory Management, Vendor Management, Category Management, Customer Service","Digital Marketing, Retail Analytics, Packaging Design, Luxury Goods",Supply Chain Management
+67,Person 67,Finance & Banking,"Equity Research, Tax Planning, Forecasting","Sustainable Investing, Stock Market, Portfolio Management, Private Equity",Real Estate Investment
+68,Person 68,Education & Training,"Tutoring, Online Course Development, Instructional Design","STEM Education, Educational Technology, Student Mentorship, Educational Research",K-12 Education
+69,Person 69,Education & Training,"Assessment Design, Classroom Management, Online Course Development, Career Counseling, Curriculum Development","Educational Policy, Student Mentorship, Educational Research",Tutoring Services
+70,Person 70,Hospitality & Travel,"Food & Beverage Management, Tour Operations, Catering","Culinary Arts, Hotel Management, Travel Planning, Luxury Travel",Travel Agencies
+71,Person 71,Engineering & Manufacturing,"Piping Design, 3D Printing, Automation Engineering","Material Science, Civil Infrastructure, Automotive Design",Chemical Engineering
+72,Person 72,Technology & IT,"CSS, Incident Response, Web Development","Augmented Reality, Virtual Reality, Game Development",Telecommunications
+73,Person 73,Education & Training,"Learning Management Systems (LMS), Student Advising, Educational Consulting","Student Mentorship, STEM Education, Inclusive Education",K-12 Education
+74,Person 74,Real Estate & Construction,"Construction Scheduling, Building Information Modeling (BIM), Building Code Compliance, Real Estate Development, Site Management","Interior Design, Commercial Real Estate, Real Estate Development",Interior Design
+75,Person 75,Government & Non-Profit,"Fundraising, Environmental Policy, Public Administration","Disaster Relief, International Relations, Environmental Conservation, Government Affairs",Community Development
+76,Person 76,Healthcare & Life Sciences,"Biomedical Engineering, Surgical Assistance, Healthcare Administration, Nursing, Epidemiology","Healthcare Innovation, Medical Devices, Public Health, Genomics",Telemedicine
+77,Person 77,Energy & Utilities,"Hydropower, Oil & Gas Exploration, Environmental Engineering, Solar Energy, Mining Engineering","Energy Policy, Sustainable Development",Utilities
+78,Person 78,Real Estate & Construction,"Zoning & Land Use, Construction Scheduling, Site Management, Property Management","Urban Development, Green Building, Commercial Real Estate, Residential Real Estate",Urban Planning
+79,Person 79,Agriculture & Food Production,"Food Processing, Irrigation Systems","Organic Farming, Agroforestry, Permaculture",Agriculture
+80,Person 80,Healthcare & Life Sciences,"Nutritional Counseling, Medical Imaging","Nutrition, Pharmaceuticals",Telemedicine
+81,Person 81,Hospitality & Travel,"Tourism Management, Recreation Management, Food & Beverage Management","Luxury Travel, Hotel Management, Travel Writing, Sustainable Tourism",Event Management
+82,Person 82,Agriculture & Food Production,"Farm Management, Animal Husbandry, Irrigation Systems, Agribusiness","Permaculture, Agroforestry, Agribusiness",Organic Farming
+83,Person 83,Finance & Banking,"Valuation, Auditing, Financial Analysis, Accounting, Compliance","FinTech Innovation, Private Equity, Banking Technology, Portfolio Management",Investment Banking
+84,Person 84,Healthcare & Life Sciences,"Biomedical Engineering, EHR Management","Nursing, Medical Research",Pharmaceuticals
+85,Person 85,Consumer Goods & Retail,"Demand Planning, Supply Chain Logistics, Supply Chain Optimization, Vendor Management, Digital Marketing","Luxury Goods, E-commerce, Sustainable Consumer Goods, Packaging Design",Retail
+86,Person 86,Finance & Banking,"Financial Planning, Quantitative Analysis, Corporate Finance, Fraud Detection","Stock Market, Wealth Management, Financial Planning",Real Estate Investment
+87,Person 87,Transportation & Logistics,"Freight Forwarding, Maritime Operations, Import/Export Management","Logistics Optimization, Sustainable Transport, Railway Systems",Supply Chain Management
+88,Person 88,Healthcare & Life Sciences,"Telemedicine, Pharmacovigilance, Radiology, Biomedical Engineering","Pharmaceuticals, Telemedicine, Medical Devices",Pharmaceuticals
+89,Person 89,Energy & Utilities,"Energy Auditing, Waste Management, Renewable Energy, Geophysics, Environmental Engineering","Smart Grids, Climate Change Mitigation, Nuclear Energy, Energy Auditing",Mining
+90,Person 90,Government & Non-Profit,"Social Work, Public Relations, Non-Profit Management","International Relations, Environmental Conservation, Public Policy",Government
+91,Person 91,Engineering & Manufacturing,"CAD Design, Product Design, Structural Analysis, Circuit Design, Piping Design","Manufacturing Processes, 3D CAD Modeling",Manufacturing
+92,Person 92,Finance & Banking,"Investment Analysis, Credit Analysis","Financial Planning, Economic Trends",FinTech
+93,Person 93,Healthcare & Life Sciences,"Radiology, Telemedicine, Pharmaceutical Development","Bioethics, Healthcare Policy, Holistic Health",Pharmaceuticals
+94,Person 94,Engineering & Manufacturing,"Electrical Engineering, CAD Design, 3D Printing","Mechanical Design, 3D CAD Modeling, Sustainable Engineering",Manufacturing
+95,Person 95,Legal & Compliance,"Environmental Law, Arbitration, Fraud Prevention, Corporate Governance, International Law","Regulatory Compliance, Intellectual Property",Intellectual Property Law
+96,Person 96,Hospitality & Travel,"Travel Writing, Travel Planning","Adventure Travel, Luxury Travel, Tourism",Food & Beverage Services
+97,Person 97,Agriculture & Food Production,"Rural Development, Livestock Management, Fisheries Management","Urban Farming, Organic Farming, Sustainable Agriculture",Dairy Farming
+98,Person 98,Real Estate & Construction,"Structural Engineering, Building Information Modeling (BIM), Project Planning, Landscaping, Green Building","Real Estate Law, Real Estate Development",Commercial Real Estate
+99,Person 99,Healthcare & Life Sciences,"Nutritional Counseling, Public Health, Medical Imaging, Medical Device Design","Healthcare Innovation, Environmental Health, Patient Advocacy, Health Informatics",Public Health
+100,Person 100,Media & Entertainment,"Campaign Management, Brand Storytelling, Broadcasting","Music Production, Social Media Content, Cultural Events",Broadcasting
